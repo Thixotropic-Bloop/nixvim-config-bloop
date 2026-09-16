@@ -24,7 +24,7 @@
   ];
 
   dependencies.gcc.package = null;
-  colorschemes.dracula.enable = true;
+  colorschemes.oxocarbon.enable = true;
   plugins.web-devicons.enable = true;
 
   diagnostic.settings = { virtual_lines.only_current_line = true; };
