@@ -21,6 +21,8 @@
     ./utils/toggleterm.nix
     ./utils/which-key.nix
     ./utils/wilder.nix
+    ./utils/startup.nix
+
   ];
 
   dependencies.gcc.package = null;
